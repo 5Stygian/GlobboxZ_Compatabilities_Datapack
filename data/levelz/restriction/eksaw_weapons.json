@@ -1,0 +1,30 @@
+{
+    "light_armor": {
+        "replace": false,
+        "skills": {
+            "attack": 2
+        },
+        "items": [
+            "magistuarmory:wood_stylet",
+            "magistuarmory:wood_shortsword",
+            "magistuarmory:wood_katzbalger",
+            "magistuarmory:wood_pike",
+            "magistuarmory:wood_ranseur",
+            "magistuarmory:wood_ahlspiess",
+            "magistuarmory:wood_chivalrylance",
+            "magistuarmory:wood_bastardsword",
+            "magistuarmory:wood_estoc",
+            "magistuarmory:wood_claymore",
+            "magistuarmory:wood_zweihander",
+            "magistuarmory:wood_flamebladedsword",
+            "magistuarmory:wood_lochaberaxe",
+            "magistuarmory:wood_concavehalberd",
+            "magistuarmory:wood_heavymace",
+            "magistuarmory:wood_heavywarhammer",
+            "magistuarmory:wood_lucernhammer",
+            "magistuarmory:wood_morgenstern",
+            "magistuarmory:wood_chainmorgenstern",
+            "magistuarmory:wood_guisarme"
+        ]
+    },
+}
