@@ -58,7 +58,7 @@
     "stone_weapons": {
         "replace": false,
         "skills": {
-            "attack": 5
+            "attack": 4
         },
         "items": [
             "magistuarmory:stone_stylet",
@@ -109,6 +109,90 @@
             "magistuarmory:iron_morgenstern",
             "magistuarmory:iron_chainmorgenstern",
             "magistuarmory:iron_guisarme"
+        ]
+    },
+    "copper_weapons": {
+        "replace": false,
+        "skills": {
+            "attack": 12
+        },
+        "items": [
+            "magistuarmory:copper_stylet",
+            "magistuarmory:copper_shortsword",
+            "magistuarmory:copper_katzbalger",
+            "magistuarmory:copper_pike",
+            "magistuarmory:copper_ranseur",
+            "magistuarmory:copper_ahlspiess",
+            "magistuarmory:copper_chivalrylance",
+            "magistuarmory:copper_bastardsword",
+            "magistuarmory:copper_estoc",
+            "magistuarmory:copper_claymore",
+            "magistuarmory:copper_zweihander",
+            "magistuarmory:copper_flamebladedsword",
+            "magistuarmory:copper_lochaberaxe",
+            "magistuarmory:copper_concavehalberd",
+            "magistuarmory:copper_heavymace",
+            "magistuarmory:copper_heavywarhammer",
+            "magistuarmory:copper_lucernhammer",
+            "magistuarmory:copper_morgenstern",
+            "magistuarmory:copper_chainmorgenstern",
+            "magistuarmory:copper_guisarme"
+        ]
+    },
+    "diamond_weapons": {
+        "replace": false,
+        "skills": {
+            "attack": 16
+        },
+        "items": [
+            "magistuarmory:diamond_stylet",
+            "magistuarmory:diamond_shortsword",
+            "magistuarmory:diamond_katzbalger",
+            "magistuarmory:diamond_pike",
+            "magistuarmory:diamond_ranseur",
+            "magistuarmory:diamond_ahlspiess",
+            "magistuarmory:diamond_chivalrylance",
+            "magistuarmory:diamond_bastardsword",
+            "magistuarmory:diamond_estoc",
+            "magistuarmory:diamond_claymore",
+            "magistuarmory:diamond_zweihander",
+            "magistuarmory:diamond_flamebladedsword",
+            "magistuarmory:diamond_lochaberaxe",
+            "magistuarmory:diamond_concavehalberd",
+            "magistuarmory:diamond_heavymace",
+            "magistuarmory:diamond_heavywarhammer",
+            "magistuarmory:diamond_lucernhammer",
+            "magistuarmory:diamond_morgenstern",
+            "magistuarmory:diamond_chainmorgenstern",
+            "magistuarmory:diamond_guisarme"
+        ]
+    },
+    "netherite_weapons": {
+        "replace": false,
+        "skills": {
+            "attack": 20
+        },
+        "items": [
+            "magistuarmory:netherite_stylet",
+            "magistuarmory:netherite_shortsword",
+            "magistuarmory:netherite_katzbalger",
+            "magistuarmory:netherite_pike",
+            "magistuarmory:netherite_ranseur",
+            "magistuarmory:netherite_ahlspiess",
+            "magistuarmory:netherite_chivalrylance",
+            "magistuarmory:netherite_bastardsword",
+            "magistuarmory:netherite_estoc",
+            "magistuarmory:netherite_claymore",
+            "magistuarmory:netherite_zweihander",
+            "magistuarmory:netherite_flamebladedsword",
+            "magistuarmory:netherite_lochaberaxe",
+            "magistuarmory:netherite_concavehalberd",
+            "magistuarmory:netherite_heavymace",
+            "magistuarmory:netherite_heavywarhammer",
+            "magistuarmory:netherite_lucernhammer",
+            "magistuarmory:netherite_morgenstern",
+            "magistuarmory:netherite_chainmorgenstern",
+            "magistuarmory:netherite_guisarme"
         ]
     },
 }
