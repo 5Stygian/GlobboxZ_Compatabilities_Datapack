@@ -2,7 +2,7 @@
     "wood_weapons": {
         "replace": false,
         "skills": {
-            "attack": 2
+            "melee": 2
         },
         "items": [
             "magistuarmory:wood_stylet",
@@ -30,7 +30,7 @@
     "gold_weapons": {
         "replace": false,
         "skills": {
-            "attack": 3
+            "melee": 3
         },
         "items": [
             "magistuarmory:gold_stylet",
@@ -58,7 +58,7 @@
     "stone_weapons": {
         "replace": false,
         "skills": {
-            "attack": 4
+            "melee": 4
         },
         "items": [
             "magistuarmory:stone_stylet",
@@ -86,7 +86,7 @@
     "iron_weapons": {
         "replace": false,
         "skills": {
-            "attack": 9
+            "melee": 9
         },
         "items": [
             "magistuarmory:iron_stylet",
@@ -114,7 +114,7 @@
     "copper_weapons": {
         "replace": false,
         "skills": {
-            "attack": 12
+            "melee": 12
         },
         "items": [
             "magistuarmory:copper_stylet",
@@ -142,7 +142,7 @@
     "diamond_weapons": {
         "replace": false,
         "skills": {
-            "attack": 16
+            "melee": 16
         },
         "items": [
             "magistuarmory:diamond_stylet",
@@ -170,7 +170,7 @@
     "netherite_weapons": {
         "replace": false,
         "skills": {
-            "attack": 20
+            "melee": 20
         },
         "items": [
             "magistuarmory:netherite_stylet",
