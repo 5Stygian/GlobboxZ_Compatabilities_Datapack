@@ -1,5 +1,5 @@
 {
-    "light_armor": {
+    "wood_weapons": {
         "replace": false,
         "skills": {
             "attack": 2
@@ -25,6 +25,90 @@
             "magistuarmory:wood_morgenstern",
             "magistuarmory:wood_chainmorgenstern",
             "magistuarmory:wood_guisarme"
+        ]
+    },
+    "gold_weapons": {
+        "replace": false,
+        "skills": {
+            "attack": 3
+        },
+        "items": [
+            "magistuarmory:gold_stylet",
+            "magistuarmory:gold_shortsword",
+            "magistuarmory:gold_katzbalger",
+            "magistuarmory:gold_pike",
+            "magistuarmory:gold_ranseur",
+            "magistuarmory:gold_ahlspiess",
+            "magistuarmory:gold_chivalrylance",
+            "magistuarmory:gold_bastardsword",
+            "magistuarmory:gold_estoc",
+            "magistuarmory:gold_claymore",
+            "magistuarmory:gold_zweihander",
+            "magistuarmory:gold_flamebladedsword",
+            "magistuarmory:gold_lochaberaxe",
+            "magistuarmory:gold_concavehalberd",
+            "magistuarmory:gold_heavymace",
+            "magistuarmory:gold_heavywarhammer",
+            "magistuarmory:gold_lucernhammer",
+            "magistuarmory:gold_morgenstern",
+            "magistuarmory:gold_chainmorgenstern",
+            "magistuarmory:gold_guisarme"
+        ]
+    },
+    "stone_weapons": {
+        "replace": false,
+        "skills": {
+            "attack": 5
+        },
+        "items": [
+            "magistuarmory:stone_stylet",
+            "magistuarmory:stone_shortsword",
+            "magistuarmory:stone_katzbalger",
+            "magistuarmory:stone_pike",
+            "magistuarmory:stone_ranseur",
+            "magistuarmory:stone_ahlspiess",
+            "magistuarmory:stone_chivalrylance",
+            "magistuarmory:stone_bastardsword",
+            "magistuarmory:stone_estoc",
+            "magistuarmory:stone_claymore",
+            "magistuarmory:stone_zweihander",
+            "magistuarmory:stone_flamebladedsword",
+            "magistuarmory:stone_lochaberaxe",
+            "magistuarmory:stone_concavehalberd",
+            "magistuarmory:stone_heavymace",
+            "magistuarmory:stone_heavywarhammer",
+            "magistuarmory:stone_lucernhammer",
+            "magistuarmory:stone_morgenstern",
+            "magistuarmory:stone_chainmorgenstern",
+            "magistuarmory:stone_guisarme"
+        ]
+    },
+    "iron_weapons": {
+        "replace": false,
+        "skills": {
+            "attack": 9
+        },
+        "items": [
+            "magistuarmory:iron_stylet",
+            "magistuarmory:iron_shortsword",
+            "magistuarmory:iron_katzbalger",
+            "magistuarmory:iron_pike",
+            "magistuarmory:iron_ranseur",
+            "magistuarmory:iron_ahlspiess",
+            "magistuarmory:iron_chivalrylance",
+            "magistuarmory:iron_bastardsword",
+            "magistuarmory:iron_estoc",
+            "magistuarmory:iron_claymore",
+            "magistuarmory:iron_zweihander",
+            "magistuarmory:iron_flamebladedsword",
+            "magistuarmory:iron_lochaberaxe",
+            "magistuarmory:iron_concavehalberd",
+            "magistuarmory:iron_heavymace",
+            "magistuarmory:iron_heavywarhammer",
+            "magistuarmory:iron_lucernhammer",
+            "magistuarmory:iron_morgenstern",
+            "magistuarmory:iron_chainmorgenstern",
+            "magistuarmory:iron_guisarme"
         ]
     },
 }
