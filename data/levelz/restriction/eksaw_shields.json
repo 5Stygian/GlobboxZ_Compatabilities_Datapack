@@ -1,0 +1,36 @@
+{
+    "wood_shields": {
+        "replace": false,
+        "skills": {
+            "defense": 2
+        },
+        "items": [
+            "magistuarmory:wood_heatershield",
+            "magistuarmory:wood_target",
+            "magistuarmory:wood_buckler",
+            "magistuarmory:wood_rondache",
+            "magistuarmory:wood_tartsche",
+            "magistuarmory:wood_ellipticalshield",
+            "magistuarmory:wood_roundshield",
+            "magistuarmory:wood_pavese",
+            "magistuarmory:wood_kiteshield"
+        ]
+    },
+    "stone_shields": {
+        "replace": false,
+        "skills": {
+            "defense": 2
+        },
+        "items": [
+            "magistuarmory:stone_heatershield",
+            "magistuarmory:stone_target",
+            "magistuarmory:stone_buckler",
+            "magistuarmory:stone_rondache",
+            "magistuarmory:stone_tartsche",
+            "magistuarmory:stone_ellipticalshield",
+            "magistuarmory:stone_roundshield",
+            "magistuarmory:stone_pavese",
+            "magistuarmory:stone_kiteshield"
+        ]
+    },
+}
