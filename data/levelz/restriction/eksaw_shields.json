@@ -50,4 +50,107 @@
             "magistuarmory:stone_kiteshield"
         ]
     },
+    "copper_shields": {
+        "replace": false,
+        "skills": {
+            "defense": 6
+        },
+        "items": [
+            "magistuarmory:copper_heatershield",
+            "magistuarmory:copper_target",
+            "magistuarmory:copper_buckler",
+            "magistuarmory:copper_rondache",
+            "magistuarmory:copper_tartsche",
+            "magistuarmory:copper_ellipticalshield",
+            "magistuarmory:copper_roundshield",
+            "magistuarmory:copper_pavese",
+            "magistuarmory:copper_kiteshield"
+        ]
+    },
+    "iron_shields": {
+        "replace": false,
+        "skills": {
+            "defense": 9
+        },
+        "items": [
+            "magistuarmory:iron_heatershield",
+            "magistuarmory:iron_target",
+            "magistuarmory:iron_buckler",
+            "magistuarmory:iron_rondache",
+            "magistuarmory:iron_tartsche",
+            "magistuarmory:iron_ellipticalshield",
+            "magistuarmory:iron_roundshield",
+            "magistuarmory:iron_pavese",
+            "magistuarmory:iron_kiteshield"
+        ]
+    },
+    "steel_shields": {
+        "replace": false,
+        "skills": {
+            "defense": 16
+        },
+        "items": [
+            "magistuarmory:steel_heatershield",
+            "magistuarmory:steel_target",
+            "magistuarmory:steel_buckler",
+            "magistuarmory:steel_rondache",
+            "magistuarmory:steel_tartsche",
+            "magistuarmory:steel_ellipticalshield",
+            "magistuarmory:steel_roundshield",
+            "magistuarmory:steel_pavese",
+            "magistuarmory:steel_kiteshield"
+        ]
+    },
+    "diamond_shields": {
+        "replace": false,
+        "skills": {
+            "defense": 16
+        },
+        "items": [
+            "magistuarmory:diamond_heatershield",
+            "magistuarmory:diamond_target",
+            "magistuarmory:diamond_buckler",
+            "magistuarmory:diamond_rondache",
+            "magistuarmory:diamond_tartsche",
+            "magistuarmory:diamond_ellipticalshield",
+            "magistuarmory:diamond_roundshield",
+            "magistuarmory:diamond_pavese",
+            "magistuarmory:diamond_kiteshield"
+        ]
+    },
+    "netherite_shields": {
+        "replace": false,
+        "skills": {
+            "defense": 20
+        },
+        "items": [
+            "magistuarmory:netherite_heatershield",
+            "magistuarmory:netherite_target",
+            "magistuarmory:netherite_buckler",
+            "magistuarmory:netherite_rondache",
+            "magistuarmory:netherite_tartsche",
+            "magistuarmory:netherite_ellipticalshield",
+            "magistuarmory:netherite_roundshield",
+            "magistuarmory:netherite_pavese",
+            "magistuarmory:netherite_kiteshield"
+        ]
+    },
+    "silver_shields": {
+        "replace": false,
+        "skills": {
+            "defense": 10,
+            "magic": 4
+        },
+        "items": [
+            "magistuarmory:silver_heatershield",
+            "magistuarmory:silver_target",
+            "magistuarmory:silver_buckler",
+            "magistuarmory:silver_rondache",
+            "magistuarmory:silver_tartsche",
+            "magistuarmory:silver_ellipticalshield",
+            "magistuarmory:silver_roundshield",
+            "magistuarmory:silver_pavese",
+            "magistuarmory:silver_kiteshield"
+        ]
+    }
 }
