@@ -16,10 +16,27 @@
             "magistuarmory:wood_kiteshield"
         ]
     },
+    "gold_shields": {
+        "replace": false,
+        "skills": {
+            "defense": 3
+        },
+        "items": [
+            "magistuarmory:gold_heatershield",
+            "magistuarmory:gold_target",
+            "magistuarmory:gold_buckler",
+            "magistuarmory:gold_rondache",
+            "magistuarmory:gold_tartsche",
+            "magistuarmory:gold_ellipticalshield",
+            "magistuarmory:gold_roundshield",
+            "magistuarmory:gold_pavese",
+            "magistuarmory:gold_kiteshield"
+        ]
+    },
     "stone_shields": {
         "replace": false,
         "skills": {
-            "defense": 2
+            "defense": 4
         },
         "items": [
             "magistuarmory:stone_heatershield",
