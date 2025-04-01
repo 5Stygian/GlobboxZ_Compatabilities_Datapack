@@ -77,14 +77,5 @@
             "rusticdelight:bell_pepper_red_crate",
             "mynethersdelight:bullet_pepper_crate"
         ]
-    },
-    "flint_knife": {
-        "replace": false,
-        "skills": {
-            "cooking": 2
-        },
-        "items": [
-            "farmersdelight:flint_knife"
-        ]
     }
 }
