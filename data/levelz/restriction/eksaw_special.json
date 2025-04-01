@@ -2,7 +2,7 @@
     "blacksmith_hammer": {
         "replace": false,
         "skills": {
-            "melee": 2
+            "melee": 14
         },
         "items": [
             "magistuarmory:blacksmith_hammer"
@@ -11,7 +11,7 @@
     "barbedclub": {
         "replace": false,
         "skills": {
-            "melee": 2
+            "melee": 12
         },
         "items": [
             "magistuarmory:barbedclub"
@@ -20,7 +20,7 @@
     "pitchfork": {
         "replace": false,
         "skills": {
-            "melee": 2
+            "melee": 5
         },
         "items": [
             "magistuarmory:pitchfork"
@@ -29,7 +29,7 @@
     "noble_sword": {
         "replace": false,
         "skills": {
-            "melee": 2
+            "melee": 15
         },
         "items": [
             "magistuarmory:noble_sword"
@@ -38,7 +38,7 @@
     "club": {
         "replace": false,
         "skills": {
-            "melee": 2
+            "melee": 10
         },
         "items": [
             "magistuarmory:club"
@@ -47,7 +47,7 @@
     "messer_sword": {
         "replace": false,
         "skills": {
-            "melee": 2
+            "melee": 8
         },
         "items": [
             "magistuarmory:messer_sword"
@@ -56,7 +56,7 @@
     "longbow": {
         "replace": false,
         "skills": {
-            "melee": 2
+            "archery": 8
         },
         "items": [
             "magistuarmory:longbow"
@@ -65,7 +65,7 @@
     "heavy_crossbow": {
         "replace": false,
         "skills": {
-            "melee": 2
+            "archery": 14
         },
         "items": [
             "magistuarmory:heavy_crossbow"
