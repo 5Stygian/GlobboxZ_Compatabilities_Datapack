@@ -1,6 +1,7 @@
 This datapack adds compatabilities between "LevelZ" by Globbox_Z and the following mods:  
 
 - "Chipped" by terrariumearth
+- "Comforts (Fabric/Forge/Quilt)" by TheIllusiveC4
 - "Chunk Loaders" by SuperMartijn642
 - "DungeonZ" by Globbox_Z
 - "Epic Knights, Shields, Armor and Weapons" by magistu_ 
