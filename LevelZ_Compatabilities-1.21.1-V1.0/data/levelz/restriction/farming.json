@@ -1,0 +1,81 @@
+{
+    "calendar": {
+        "replace": false,
+        "skills": {
+            "farming": 2
+        },
+        "crafting": [
+            "seasonsextras:season_calendar"
+        ]
+    },
+    "greenhouse_glass": {
+        "replace": false,
+        "skills": {
+            "farming": 10
+        },
+        "crafting": [
+            "seasonsextras:white_greenhouse_glass",
+            "seasonsextras:orange_greenhouse_glass",
+            "seasonsextras:magenta_greenhouse_glass",
+            "seasonsextras:light_blue_greenhouse_glass",
+            "seasonsextras:yellow_greenhouse_glass",
+            "seasonsextras:lime_greenhouse_glass",
+            "seasonsextras:pink_greenhouse_glass",
+            "seasonsextras:gray_greenhouse_glass",
+            "seasonsextras:light_gray_greenhouse_glass",
+            "seasonsextras:cyan_greenhouse_glass",
+            "seasonsextras:purple_greenhouse_glass",
+            "seasonsextras:blue_greenhouse_glass",
+            "seasonsextras:brown_greenhouse_glass",
+            "seasonsextras:green_greenhouse_glass",
+            "seasonsextras:red_greenhouse_glass",
+            "seasonsextras:black_greenhouse_glass",
+            "seasonsextras:tinted_greenhouse_glass"
+        ]
+    },
+    "climate_controll": {
+        "replace": false,
+        "skills": {
+            "farming": 12
+        },
+        "crafting": [
+            "seasonsextras:heater",
+            "seasonsextras:chiller"
+        ]
+    },
+    "season_tester": {
+        "replace": false,
+        "skills": {
+            "farming": 12
+        },
+        "items": [
+            "seasonsextras:crop_season_tester"
+        ]
+    },
+    "crates": {
+        "replace": false,
+        "skills": {
+            "farming": 4
+        },
+        "crafting": [
+            "farmersdelight:carrot_crate",
+            "farmersdelight:potato_crate",
+            "farmersdelight:beetroot_crate",
+            "farmersdelight:cabbage_crate",
+            "farmersdelight:tomato_crate",
+            "farmersdelight:onion_crate",
+            "farmersdelight:rice_bale",
+            "farmersdelight:rice_bag",
+            "farmersdelight:straw_bale",
+            "rusticdelight:cotton_seeds_bag",
+            "rusticdelight:bell_pepper_seeds_bag",
+            "rusticdelight:coffee_beans_bag",
+            "rusticdelight:roasted_coffee_beans_bag",
+            "rusticdelight:cotton_boll_crate",
+            "rusticdelight:bell_pepper_green_crate",
+            "rusticdelight:bell_pepper_yellow_crate",
+            "rusticdelight:bell_pepper_red_crate",
+            "mynethersdelight:bullet_pepper_crate"
+        ]
+    }
+}
