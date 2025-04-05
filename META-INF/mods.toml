@@ -1,0 +1,18 @@
+modLoader="lowcodefml"
+loaderVersion="[48,)"
+license="None"
+
+[[mods]]
+modID="slevelzcompats"
+version="1.0"
+displayName="Stygian's LevelZ Compats"
+description='''
+Compatabilities between LevelZ and many other mods
+'''
+
+[[dependancies.slevelzcompats]]
+    modId="levelz"
+    mandatory="true"
+    versionRange="[2.0.6+1.21.1)"
+    ordering="AFTER"
+    side="BOTH"
