@@ -9,7 +9,7 @@
         ]
     },
     "iron_brush": {
-        "replace": true,
+        "replace": false,
         "skills": {
             "constitution": 7
         },
@@ -18,7 +18,7 @@
         ]
     },
     "diamond_brush": {
-        "replace": true,
+        "replace": false,
         "skills": {
             "constitution": 9
         },
@@ -27,7 +27,7 @@
         ]
     },
     "netherite_brush": {
-        "replace": true,
+        "replace": false,
         "skills": {
             "constitution": 11
         },
