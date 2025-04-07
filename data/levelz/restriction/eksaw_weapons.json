@@ -55,6 +55,34 @@
             "magistuarmory:gold_guisarme"
         ]
     },
+    "copper_weapons": {
+        "replace": false,
+        "skills": {
+            "melee": 3
+        },
+        "items": [
+            "magistuarmory:copper_stylet",
+            "magistuarmory:copper_shortsword",
+            "magistuarmory:copper_katzbalger",
+            "magistuarmory:copper_pike",
+            "magistuarmory:copper_ranseur",
+            "magistuarmory:copper_ahlspiess",
+            "magistuarmory:copper_chivalrylance",
+            "magistuarmory:copper_bastardsword",
+            "magistuarmory:copper_estoc",
+            "magistuarmory:copper_claymore",
+            "magistuarmory:copper_zweihander",
+            "magistuarmory:copper_flamebladedsword",
+            "magistuarmory:copper_lochaberaxe",
+            "magistuarmory:copper_concavehalberd",
+            "magistuarmory:copper_heavymace",
+            "magistuarmory:copper_heavywarhammer",
+            "magistuarmory:copper_lucernhammer",
+            "magistuarmory:copper_morgenstern",
+            "magistuarmory:copper_chainmorgenstern",
+            "magistuarmory:copper_guisarme"
+        ]
+    },
     "stone_weapons": {
         "replace": false,
         "skills": {
@@ -81,34 +109,6 @@
             "magistuarmory:stone_morgenstern",
             "magistuarmory:stone_chainmorgenstern",
             "magistuarmory:stone_guisarme"
-        ]
-    },
-    "copper_weapons": {
-        "replace": false,
-        "skills": {
-            "melee": 6
-        },
-        "items": [
-            "magistuarmory:copper_stylet",
-            "magistuarmory:copper_shortsword",
-            "magistuarmory:copper_katzbalger",
-            "magistuarmory:copper_pike",
-            "magistuarmory:copper_ranseur",
-            "magistuarmory:copper_ahlspiess",
-            "magistuarmory:copper_chivalrylance",
-            "magistuarmory:copper_bastardsword",
-            "magistuarmory:copper_estoc",
-            "magistuarmory:copper_claymore",
-            "magistuarmory:copper_zweihander",
-            "magistuarmory:copper_flamebladedsword",
-            "magistuarmory:copper_lochaberaxe",
-            "magistuarmory:copper_concavehalberd",
-            "magistuarmory:copper_heavymace",
-            "magistuarmory:copper_heavywarhammer",
-            "magistuarmory:copper_lucernhammer",
-            "magistuarmory:copper_morgenstern",
-            "magistuarmory:copper_chainmorgenstern",
-            "magistuarmory:copper_guisarme"
         ]
     },
     "iron_weapons": {

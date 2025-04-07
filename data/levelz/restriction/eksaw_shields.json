@@ -33,6 +33,23 @@
             "magistuarmory:gold_kiteshield"
         ]
     },
+    "copper_shields": {
+        "replace": false,
+        "skills": {
+            "defense": 3
+        },
+        "items": [
+            "magistuarmory:copper_heatershield",
+            "magistuarmory:copper_target",
+            "magistuarmory:copper_buckler",
+            "magistuarmory:copper_rondache",
+            "magistuarmory:copper_tartsche",
+            "magistuarmory:copper_ellipticalshield",
+            "magistuarmory:copper_roundshield",
+            "magistuarmory:copper_pavese",
+            "magistuarmory:copper_kiteshield"
+        ]
+    },
     "stone_shields": {
         "replace": false,
         "skills": {
@@ -48,23 +65,6 @@
             "magistuarmory:stone_roundshield",
             "magistuarmory:stone_pavese",
             "magistuarmory:stone_kiteshield"
-        ]
-    },
-    "copper_shields": {
-        "replace": false,
-        "skills": {
-            "defense": 6
-        },
-        "items": [
-            "magistuarmory:copper_heatershield",
-            "magistuarmory:copper_target",
-            "magistuarmory:copper_buckler",
-            "magistuarmory:copper_rondache",
-            "magistuarmory:copper_tartsche",
-            "magistuarmory:copper_ellipticalshield",
-            "magistuarmory:copper_roundshield",
-            "magistuarmory:copper_pavese",
-            "magistuarmory:copper_kiteshield"
         ]
     },
     "iron_shields": {

@@ -1,0 +1,38 @@
+{
+    "brush": {
+        "replace": true,
+        "skills": {
+            "constitution": 5
+        },
+        "items": [
+            "minecraft:brush"
+        ]
+    },
+    "iron_brush": {
+        "replace": true,
+        "skills": {
+            "constitution": 7
+        },
+        "items": [
+            "betterarcheology:iron_brush"
+        ]
+    },
+    "diamond_brush": {
+        "replace": true,
+        "skills": {
+            "constitution": 9
+        },
+        "items": [
+            "betterarcheology:diamond_brush"
+        ]
+    },
+    "netherite_brush": {
+        "replace": true,
+        "skills": {
+            "constitution": 11
+        },
+        "items": [
+            "betterarcheology:netherite_brush"
+        ]
+    }
+}

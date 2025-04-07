@@ -1,0 +1,74 @@
+{
+    "chert_coal": {
+        "replace": false,
+        "skills": {
+            "mining": 2
+        },
+        "mining": [
+            "natures_spirit:chert_coal_ore"
+        ]
+    },
+    "chert_copper": {
+        "replace": false,
+        "skills": {
+            "mining": 4
+        },
+        "mining": [
+            "natures_spirit:chert_copper_ore"
+        ]
+    },
+    "chert_gold": {
+        "replace": false,
+        "skills": {
+            "mining": 5
+        },
+        "mining": [
+            "natures_spirit:chert_gold_ore"
+        ]
+    },
+    "chert_iron": {
+        "replace": false,
+        "skills": {
+            "mining": 6
+        },
+        "mining": [
+            "natures_spirit:chert_iron_ore"
+        ]
+    },
+    "chert_lapis": {
+        "replace": false,
+        "skills": {
+            "mining": 8
+        },
+        "mining": [
+            "natures_spirit:chert_lapis_ore"
+        ]
+    },
+    "chert_redstone": {
+        "replace": false,
+        "skills": {
+            "mining": 11
+        },
+        "mining": [
+            "natures_spirit:chert_redstone_ore"
+        ]
+    },
+    "chert_diamond": {
+        "replace": false,
+        "skills": {
+            "mining": 13
+        },
+        "mining": [
+            "natures_spirit:chert_diamond_ore"
+        ]
+    },
+    "chert_emerald": {
+        "replace": false,
+        "skills": {
+            "mining": 14
+        },
+        "mining": [
+            "natures_spirit:chert_emerald_ore"
+        ]
+    }
+}
