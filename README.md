@@ -12,4 +12,5 @@ This datapack adds compatabilities between "LevelZ" by Globbox_Z and the followi
 - "Inmis" by Draylar1
 - "More Delight (Fabric)" by axperty
 - "My Nether's Delight Refabricated" by MerchantCalico
+- "Nature's Spirit" by Team_Hibiscus
 - "Waystones" by BlayTheNinth
