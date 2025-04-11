@@ -38,7 +38,7 @@
     "bejeweled_backpack": {
         "replace": false,
         "skills": {
-            "constitution": 14
+            "constitution": 16
         },
         "items": [
             "inmis:bejeweled_backpack"
