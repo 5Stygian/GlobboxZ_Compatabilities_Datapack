@@ -11,7 +11,7 @@
     "stoves": {
         "replace": false,
         "skills": {
-            "cooking": 6
+            "cooking": 8
         },
         "blocks": [
             "farmersdelight:stove",
@@ -21,7 +21,7 @@
     "cooking_pot": {
         "replace": false,
         "skills": {
-            "cooking": 10
+            "cooking": 12
         },
         "blocks": [
             "farmersdelight:cooking_pot"
