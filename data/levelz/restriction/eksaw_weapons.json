@@ -58,7 +58,7 @@
     "copper_weapons": {
         "replace": false,
         "skills": {
-            "melee": 3
+            "melee": 5
         },
         "items": [
             "magistuarmory:copper_stylet",
