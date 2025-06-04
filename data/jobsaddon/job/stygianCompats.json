@@ -17,7 +17,7 @@
         "blocks": [
             "minecraft:birch_log",
             "minecraft:spruce_log",
-            "minecraft:mangrove_log",
+            "minecraft:mangorve_log",
             "minecraft:dark_oak_log",
             "minecraft:acacia_log",
             "minecraft:oak_log",
@@ -634,11 +634,11 @@
             "farmersdelight:stove"
         ]
       },
-      "6" {
+      "6": {
         "replace": false,
         "items": [
           "farmersdelight:cooking_pot"
-        ],
+        ]
       },
       "7": {
         "replace": false,
@@ -993,7 +993,7 @@
         "farmersdelight:tomato",
         "farmersdelight:onion",
         "farmersdelight:rice_panicle",
-        "farmersdelight:rice",
+        "farmersdelight:rice"
     ]
   }
 }
