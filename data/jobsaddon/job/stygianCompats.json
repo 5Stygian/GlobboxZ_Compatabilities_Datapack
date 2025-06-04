@@ -101,7 +101,8 @@
       "1": {
         "items": [
             "minecraft:cookie",
-            "minecraft:dried_kelp"
+            "minecraft:dried_kelp",
+            "farmersdelight:basket"
         ]
       },
       "3": {
@@ -114,7 +115,8 @@
             "minecraft:cooked_beef",
             "minecraft:cooked_porkchop",
             "minecraft:cooked_salmon",
-            "minecraft:cooked_cod"
+            "minecraft:cooked_cod",
+            "farmersdelight:organic_compost"
         ]
       },
       "4": {
@@ -144,7 +146,17 @@
         "blocks": [
             "minecraft:short_grass",
             "minecraft:tall_grass",
-            "minecraft:seagrass"
+            "minecraft:seagrass",
+            "farmersdelight:sandy_shrub",
+            "farmersdelight:wild_cabbages",
+            "farmersdelight:wild_onions",
+            "farmersdelight:wild_tomatoes",
+            "farmersdelight:wild_carrots",
+            "farmersdelight:wild_potatoes",
+            "farmersdelight:wild_beetroots",
+            "farmersdelight:wild_rice",
+            "farmersdelight:brown_mushroom_colony",
+            "farmersdelight:red_mushroom_colony"
         ]
       }
     },
@@ -503,7 +515,69 @@
             "minecraft:black_stained_glass",
             "minecraft:tinted_glass",
             "minecraft:obsidian",
-            "minecraft:crying_obsidian"
+            "minecraft:crying_obsidian",
+            "farmersdelight:canvas_sign",
+            "farmersdelight:hanging_canvas_sign",
+            "farmersdelight:white_canvas_sign",
+            "farmersdelight:white_hanging_canvas_sign",
+            "farmersdelight:light_gray_canvas_sign",
+            "farmersdelight:light_gray_hanging_canvas_sign",
+            "farmersdelight:gray_canvas_sign",
+            "farmersdelight:gray_hanging_canvas_sign",
+            "farmersdelight:black_canvas_sign",
+            "farmersdelight:black_hanging_canvas_sign",
+            "farmersdelight:brown_canvas_sign",
+            "farmersdelight:brown_hanging_canvas_sign",
+            "farmersdelight:red_canvas_sign",
+            "farmersdelight:red_hanging_canvas_sign",
+            "farmersdelight:orange_canvas_sign",
+            "farmersdelight:orange_hanging_canvas_sign",
+            "farmersdelight:yellow_canvas_sign",
+            "farmersdelight:yellow_hanging_canvas_sign",
+            "farmersdelight:lime_canvas_sign",
+            "farmersdelight:lime_hanging_canvas_sign",
+            "farmersdelight:green_canvas_sign",
+            "farmersdelight:green_hanging_canvas_sign",
+            "farmersdelight:cyan_canvas_sign",
+            "farmersdelight:cyan_hanging_canvas_sign",
+            "farmersdelight:light_blue_canvas_sign",
+            "farmersdelight:light_blue_hanging_canvas_sign",
+            "farmersdelight:blue_canvas_sign",
+            "farmersdelight:blue_hanging_canvas_sign",
+            "farmersdelight:purple_canvas_sign",
+            "farmersdelight:purple_hanging_canvas_sign",
+            "farmersdelight:magenta_canvas_sign",
+            "farmersdelight:magenta_hanging_canvas_sign",
+            "farmersdelight:pink_canvas_sign",
+            "farmersdelight:pink_hanging_canvas_sign",
+            "farmersdelight:oak_cabinet",
+            "farmersdelight:spruce_cabinet",
+            "farmersdelight:birch_cabinet",
+            "farmersdelight:jungle_cabinet",
+            "farmersdelight:acacia_cabinet",
+            "farmersdelight:dark_oak_cabinet",
+            "farmersdelight:mangrove_cabinet",
+            "farmersdelight:cherry_cabinet",
+            "farmersdelight:bamboo_cabinet",
+            "farmersdelight:crimson_cabinet",
+            "farmersdelight:warped_cabinet",
+            "natures_delight:mahogany_cabinet",
+            "natures_delight:saxaul_cabinet",
+            "natures_delight:redwood_cabinet",
+            "natures_delight:aspen_cabinet",
+            "natures_delight:fir_cabinet",
+            "natures_delight:cypress_cabinet",
+            "natures_delight:coconut_cabinet",
+            "natures_delight:wisteria_cabinet",
+            "natures_delight:willow_cabinet",
+            "natures_delight:cedar_cabinet",
+            "natures_delight:sugi_cabinet",
+            "natures_delight:palo_verde_cabinet",
+            "natures_delight:olive_cabinet",
+            "natures_delight:joshua_cabinet",
+            "natures_delight:ghaf_cabinet",
+            "natures_delight:maple_cabinet",
+            "natures_delight:larch_cabinet"
         ]
       },
       "2": {
@@ -529,7 +603,9 @@
             "minecraft:wooden_sword",
             "minecraft:wooden_shovel",
             "minecraft:wooden_pickaxe",
-            "minecraft:arrow"
+            "minecraft:arrow",
+            "farmersdelight:flint_knife",
+            "farmersdelight:cutting_board"
         ]
       },
       "3": {
@@ -540,7 +616,8 @@
             "minecraft:stone_sword",
             "minecraft:stone_shovel",
             "minecraft:stone_pickaxe",
-            "minecraft:coal"
+            "minecraft:coal",
+            "farmersdelight:skillet"
         ]
       },
       "4": {
@@ -553,8 +630,15 @@
       "5": {
         "replace": false,
         "items": [
-            "minecraft:redstone"
+            "minecraft:redstone",
+            "farmersdelight:stove"
         ]
+      },
+      "6" {
+        "replace": false,
+        "items": [
+          "farmersdelight:cooking_pot"
+        ],
       },
       "7": {
         "replace": false,
@@ -569,7 +653,8 @@
             "minecraft:golden_pickaxe",
             "minecraft:golden_chestplate",
             "minecraft:gold_ingot",
-            "minecraft:lapis_lazuli"
+            "minecraft:lapis_lazuli",
+            "farmersdelight:golden_knife"
         ]
       },
       "8": {
@@ -584,7 +669,8 @@
             "minecraft:iron_shovel",
             "minecraft:iron_pickaxe",
             "minecraft:iron_chestplate",
-            "minecraft:iron_ingot"
+            "minecraft:iron_ingot",
+            "farmersdelight:iron_knife"
         ]
       },
       "9": {
@@ -605,7 +691,8 @@
             "minecraft:diamond_shovel",
             "minecraft:diamond_pickaxe",
             "minecraft:diamond_chestplate",
-            "minecraft:diamond"
+            "minecraft:diamond",
+            "farmersdelight:diamond_knife"
         ]
       },
       "12": {
@@ -621,7 +708,8 @@
             "minecraft:netherite_pickaxe",
             "minecraft:netherite_chestplate",
             "minecraft:netherite_ingot",
-            "minecraft:netherite_scrap"
+            "minecraft:netherite_scrap",
+            "farmersdelight:netherite_knife"
         ]
       }
     }
@@ -890,7 +978,22 @@
         "minecraft:dried_kelp_block",
         "minecraft:dried_kelp_from_campfire_cooking",
         "minecraft:dried_kelp_from_smelting",
-        "minecraft:dried_kelp_from_smoking"
+        "minecraft:dried_kelp_from_smoking",
+        "farmersdelight:carrot_crate",
+        "farmersdelight:potato_crate",
+        "farmersdelight:beetroot_crate",
+        "farmersdelight:cabbage_crate",
+        "farmersdelight:tomato_crate",
+        "farmersdelight:onion_crate",
+        "farmersdelight:rice_bale",
+        "farmersdelight:rice_bag",
+        "farmersdelight:straw_bale",
+        "natures_delight:desert_turnip_crate",
+        "farmersdelight:cabbage",
+        "farmersdelight:tomato",
+        "farmersdelight:onion",
+        "farmersdelight:rice_panicle",
+        "farmersdelight:rice",
     ]
   }
 }
