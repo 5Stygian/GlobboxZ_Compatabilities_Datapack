@@ -1,5 +1,7 @@
 This datapack adds compatabilities between "LevelZ" and "JobsAddon" by Globbox_Z and the following mods:  
 
+Working on adding JobsAddon support for many mods
+
 ### LevelZ
 - "Better Archeology" by Pandarix, Dunkellicht
 - "Chipped" by terrariumearth
@@ -17,6 +19,10 @@ This datapack adds compatabilities between "LevelZ" and "JobsAddon" by Globbox_Z
 - "Waystones" by BlayTheNinth
 
 ### JobsAddon
-- 
-
-Working on adding JobsAddon support for many mods
+- "Better Archeology" by Pandarix, Dunkellicht
+- "Chunk Loaders" by SuperMartijn642
+- "DungeonZ" by Globbox_Z
+- "Fabric Seasons: Extras" by D4rkness_King
+- "Farmer's Delight Refabricated" by MerchantCalico, MehVahdJukaar
+- "Inmis" by Draylar1
+- "Nature's Spirit" by Team_Hibiscus
