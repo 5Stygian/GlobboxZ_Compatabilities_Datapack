@@ -1,5 +1,6 @@
-This datapack adds compatabilities between "LevelZ" by Globbox_Z and the following mods:  
+This datapack adds compatabilities between "LevelZ" and "JobsAddon" by Globbox_Z and the following mods:  
 
+### LevelZ
 - "Better Archeology" by Pandarix, Dunkellicht
 - "Chipped" by terrariumearth
 - "Comforts (Fabric/Forge/Quilt)" by TheIllusiveC4
@@ -14,5 +15,8 @@ This datapack adds compatabilities between "LevelZ" by Globbox_Z and the followi
 - "My Nether's Delight Refabricated" by MerchantCalico
 - "Nature's Spirit" by Team_Hibiscus
 - "Waystones" by BlayTheNinth
+
+### JobsAddon
+- 
 
 Working on adding JobsAddon support for many mods

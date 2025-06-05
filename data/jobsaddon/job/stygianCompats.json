@@ -1,19 +1,19 @@
 {
   "lumberjack": {
-    "replace": false,
+    "replace": true,
     "id": 0,
     "key": "lumberjack",
     "maxlevel": 100,
     "blockbreak": {
       "2": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:jungle_log",
             "natures_spirit:redwood_log"
         ]
       },
       "3": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:birch_log",
             "minecraft:spruce_log",
@@ -27,7 +27,7 @@
         ]
       },
       "4": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:crimson_stem",
             "minecraft:warped_stem"
@@ -36,13 +36,13 @@
     }
   },
   "miner": {
-    "replace": false,
+    "replace": true,
     "id": 1,
     "key": "miner",
     "maxlevel": 100,
     "blockbreak": {
       "5": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:coal_ore",
             "minecraft:copper_ore",
@@ -52,14 +52,14 @@
         ]
       },
       "6": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:deepslate_redstone_ore",
             "minecraft:redstone_ore"
         ]
       },
       "7": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:gold_ore",
             "minecraft:nether_gold_ore",
@@ -71,29 +71,55 @@
         ]
       },
       "8": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:deepslate_diamond_ore",
             "minecraft:diamond_ore"
         ]
       },
       "9": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:emerald_ore",
             "minecraft:deepslate_emerald_ore"
         ]
       },
       "15": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:ancient_debris"
+        ]
+      },
+      "20": {
+        "replace": true,
+        "blocks": [
+          "betterarcheology:creeper_fossil",
+          "betterarcheology:creeper_fossil_body",
+          "betterarcheology:creeper_fossil_head",
+          "betterarcheology:villager_fossil",
+          "betterarcheology:villager_fossil_body",
+          "betterarcheology:villager_fossil_head",
+          "betterarcheology:chicken_fossil",
+          "betterarcheology:chicken_fossil_body",
+          "betterarcheology:chicken_fossil_head",
+          "betterarcheology:ocelot_fossil",
+          "betterarcheology:ocelot_fossil_body",
+          "betterarcheology:ocelot_fossil_head",
+          "betterarcheology:wolf_fossil",
+          "betterarcheology:wolf_fossil_body",
+          "betterarcheology:wolf_fossil_head",
+          "betterarcheology:sheep_fossil",
+          "betterarcheology:sheep_fossil_body",
+          "betterarcheology:sheep_fossil_head",
+          "betterarcheology:guardian_fossil",
+          "betterarcheology:guardian_fossil_head",
+          "betterarcheology:guardian_fossil_body"
         ]
       }
     }
   },
   "farmer": {
-    "replace": false,
+    "replace": true,
     "id": 2,
     "key": "farmer",
     "maxlevel": 100,
@@ -142,7 +168,7 @@
     },
     "blockbreak": {
       "1": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:short_grass",
             "minecraft:tall_grass",
@@ -156,13 +182,16 @@
             "farmersdelight:wild_beetroots",
             "farmersdelight:wild_rice",
             "farmersdelight:brown_mushroom_colony",
-            "farmersdelight:red_mushroom_colony"
+            "farmersdelight:red_mushroom_colony",
+            "rusticdelight:wild_cotton",
+            "rusticdelight:wild_bell_peppers",
+            "rusticdelight:wild_coffee"
         ]
       }
     },
     "itemdrop": {
       "3": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:wheat",
             "minecraft:carrot",
@@ -179,13 +208,13 @@
     }
   },
   "warrior": {
-    "replace": false,
+    "replace": true,
     "id": 3,
     "key": "warrior",
     "maxlevel": 100,
     "entitykill": {
       "1": {
-        "replace": false,
+        "replace": true,
         "entities": [
             "minecraft:bat",
             "minecraft:parrot",
@@ -196,7 +225,7 @@
         ]
       },
       "2": {
-        "replace": false,
+        "replace": true,
         "entities": [
             "minecraft:cow",
             "minecraft:snow_golem",
@@ -220,7 +249,7 @@
         ]
       },
       "4": {
-        "replace": false,
+        "replace": true,
         "entities": [
             "minecraft:bee",
             "minecraft:magma_cube",
@@ -234,7 +263,7 @@
         ]
       },
       "5": {
-        "replace": false,
+        "replace": true,
         "entities": [
             "minecraft:phantom",
             "minecraft:spider",
@@ -265,7 +294,7 @@
         ]
       },
       "6": {
-        "replace": false,
+        "replace": true,
         "entities": [
             "minecraft:wither_skeleton",
             "minecraft:piglin_brute",
@@ -277,7 +306,7 @@
         ]
       },
       "8": {
-        "replace": false,
+        "replace": true,
         "entities": [
             "minecraft:player",
             "minecraft:giant",
@@ -285,14 +314,14 @@
         ]
       },
       "10": {
-        "replace": false,
+        "replace": true,
         "entities": [
             "minecraft:wither",
             "minecraft:warden"
         ]
       },
       "15": {
-        "replace": false,
+        "replace": true,
         "entities": [
             "minecraft:ender_dragon"
         ]
@@ -300,13 +329,13 @@
     }
   },
   "builder": {
-    "replace": false,
+    "replace": true,
     "id": 4,
     "key": "builder",
     "maxlevel": 100,
     "blockplace": {
       "1": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:oak_planks",
             "minecraft:spruce_planks",
@@ -581,7 +610,7 @@
         ]
       },
       "2": {
-        "replace": false,
+        "replace": true,
         "blocks": [
             "minecraft:obsidian",
             "minecraft:crying_obsidian"
@@ -590,13 +619,13 @@
     }
   },
   "smith": {
-    "replace": false,
+    "replace": true,
     "id": 5,
     "key": "smith",
     "maxlevel": 100,
     "crafting": {
       "2": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:wooden_axe",
             "minecraft:wooden_hoe",
@@ -605,11 +634,13 @@
             "minecraft:wooden_pickaxe",
             "minecraft:arrow",
             "farmersdelight:flint_knife",
-            "farmersdelight:cutting_board"
+            "farmersdelight:cutting_board",
+            "inmis:baby_backpack",
+            "inmis:frayed_backpack"
         ]
       },
       "3": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:stone_axe",
             "minecraft:stone_hoe",
@@ -621,27 +652,45 @@
         ]
       },
       "4": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:copper_ingot",
             "minecraft:quartz"
         ]
       },
       "5": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:redstone",
-            "farmersdelight:stove"
+            "farmersdelight:stove",
+            "seasonsextras:white_greenhouse_glass",
+            "seasonsextras:orange_greenhouse_glass",
+            "seasonsextras:magenta_greenhouse_glass",
+            "seasonsextras:light_blue_greenhouse_glass",
+            "seasonsextras:yellow_greenhouse_glass",
+            "seasonsextras:lime_greenhouse_glass",
+            "seasonsextras:pink_greenhouse_glass",
+            "seasonsextras:gray_greenhouse_glass",
+            "seasonsextras:light_gray_greenhouse_glass",
+            "seasonsextras:cyan_greenhouse_glass",
+            "seasonsextras:purple_greenhouse_glass",
+            "seasonsextras:blue_greenhouse_glass",
+            "seasonsextras:brown_greenhouse_glass",
+            "seasonsextras:green_greenhouse_glass",
+            "seasonsextras:red_greenhouse_glass",
+            "seasonsextras:black_greenhouse_glass",
+            "seasonsextras:tinted_greenhouse_glass"
         ]
       },
       "6": {
-        "replace": false,
+        "replace": true,
         "items": [
-          "farmersdelight:cooking_pot"
+          "farmersdelight:cooking_pot",
+          "betterarcheology:iron_brush"
         ]
       },
       "7": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:golden_axe",
             "minecraft:golden_hoe",
@@ -654,11 +703,17 @@
             "minecraft:golden_chestplate",
             "minecraft:gold_ingot",
             "minecraft:lapis_lazuli",
-            "farmersdelight:golden_knife"
+            "farmersdelight:golden_knife",
+            "chunkloaders:single_chunk_loader",
+            "seasonsextras:heater",
+            "seasonsextras:chiller",
+            "seasonsextras:season_detector",
+            "seasonsextras:season_calendar",
+            "seasonsextras:crop_season_tester"
         ]
       },
       "8": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:iron_axe",
             "minecraft:iron_hoe",
@@ -670,17 +725,22 @@
             "minecraft:iron_pickaxe",
             "minecraft:iron_chestplate",
             "minecraft:iron_ingot",
-            "farmersdelight:iron_knife"
+            "farmersdelight:iron_knife",
+            "inmis:plated_backpack",
+            "betterarcheology:diamond_brush"
         ]
       },
       "9": {
-        "replace": false,
+        "replace": true,
         "items": [
-            "minecraft:emerald"
+            "minecraft:emerald",
+            "inmis:gilded_backpack",
+            "chunkloaders:basic_chunk_loader",
+            "betterarcheology:bomb"
         ]
       },
       "10": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:diamond_axe",
             "minecraft:diamond_hoe",
@@ -692,11 +752,14 @@
             "minecraft:diamond_pickaxe",
             "minecraft:diamond_chestplate",
             "minecraft:diamond",
-            "farmersdelight:diamond_knife"
+            "farmersdelight:diamond_knife",
+            "dungeonz:dungeon_compass",
+            "inmis:bejeweled_backpack",
+            "betterarcheology:netherite_brush"
         ]
       },
       "12": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:netherite_axe",
             "minecraft:netherite_hoe",
@@ -709,19 +772,41 @@
             "minecraft:netherite_chestplate",
             "minecraft:netherite_ingot",
             "minecraft:netherite_scrap",
-            "farmersdelight:netherite_knife"
+            "farmersdelight:netherite_knife",
+            "inmis:blazing_backpack",
+            "chunkloaders:advanced_chunk_loader"
+        ]
+      },
+      "14": {
+        "replace": true,
+        "items": [
+          "inmis:blazing_backpack"
+        ]
+      },
+      "16": {
+        "replace": true,
+        "items": [
+          "inmis:withered_backpack",
+          "chunkloaders:ultimate_chunk_loader"
+        ]
+      },
+      "18": {
+        "replace": true,
+        "items": [
+          "inmis:endless_backpack",
+          "inmis:ender_pouch"
         ]
       }
     }
   },
   "fisher": {
-    "replace": false,
+    "replace": true,
     "id": 6,
     "key": "fisher",
     "maxlevel": 100,
     "crafting": {
       "3": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:fishing_rod"
         ]
@@ -729,7 +814,7 @@
     },
     "itemdrop": {
       "10": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:cod",
             "minecraft:salmon",
@@ -738,7 +823,7 @@
         ]
       },
       "15": {
-        "replace": false,
+        "replace": true,
         "items": [
             "minecraft:enchanted_book",
             "minecraft:saddle",
@@ -749,13 +834,13 @@
     },
     "entitykill": {
       "5": {
-        "replace": false,
+        "replace": true,
         "entities": [
             "minecraft:tadpole"
         ]
       },
       "10": {
-        "replace": false,
+        "replace": true,
         "entities": [
             "minecraft:cod",
             "minecraft:frog",
@@ -769,18 +854,18 @@
     }
   },
   "brewer": {
-    "replace": false,
+    "replace": true,
     "id": 7,
     "key": "brewer",
     "maxlevel": 100,
     "brewing": {
       "1": {
-        "replace": false,
+        "replace": true,
         "effects": [
         ]
       },
       "3": {
-        "replace": false,
+        "replace": true,
         "effects": [
             "minecraft:leaping",
             "minecraft:strong_leaping",
@@ -798,7 +883,7 @@
         ]
       },
       "4": {
-        "replace": false,
+        "replace": true,
         "effects": [
             "minecraft:invisibility",
             "minecraft:long_invisibility",
@@ -810,7 +895,7 @@
         ]
       },
       "6": {
-        "replace": false,
+        "replace": true,
         "effects": [
             "minecraft:water_breathing",
             "minecraft:long_water_breathing",
@@ -819,7 +904,7 @@
         ]
       },
       "7": {
-        "replace": false,
+        "replace": true,
         "effects": [
             "minecraft:strength",
             "minecraft:strong_strength",
@@ -830,7 +915,7 @@
         ]
       },
       "8": {
-        "replace": false,
+        "replace": true,
         "effects": [
             "minecraft:regeneration",
             "minecraft:strong_regeneration",
@@ -840,14 +925,14 @@
         ]
       },
       "9": {
-        "replace": false,
+        "replace": true,
         "effects": [
             "minecraft:healing",
             "minecraft:strong_healing"
         ]
       },
       "10": {
-        "replace": false,
+        "replace": true,
         "effects": [
             "minecraft:luck"
         ]
@@ -855,7 +940,7 @@
     },
     "enchanting": {
       "2": {
-        "replace": false,
+        "replace": true,
         "enchantments": {
           "minecraft:efficiency": 1,
           "minecraft:power": 1,
@@ -867,7 +952,7 @@
         }
       },
       "3": {
-        "replace": false,
+        "replace": true,
         "enchantments": {
           "minecraft:fire_protection": 1,
           "minecraft:projectile_protection": 1,
@@ -879,7 +964,7 @@
         }
       },
       "4": {
-        "replace": false,
+        "replace": true,
         "enchantments": {
           "minecraft:looting": 1,
           "minecraft:quick_charge": 1,
@@ -893,7 +978,7 @@
         }
       },
       "5": {
-        "replace": false,
+        "replace": true,
         "enchantments": {
           "minecraft:soul_speed": 1,
           "minecraft:loyalty": 1,
@@ -904,13 +989,13 @@
         }
       },
       "7": {
-        "replace": false,
+        "replace": true,
         "enchantments": {
           "minecraft:infinity": 1
         }
       },
       "8": {
-        "replace": false,
+        "replace": true,
         "enchantments": {
           "minecraft:flame": 1,
           "minecraft:aqua_affinity": 1,
@@ -919,14 +1004,14 @@
         }
       },
       "9": {
-        "replace": false,
+        "replace": true,
         "enchantments": {
           "minecraft:silk_touch": 1,
           "minecraft:mending": 1
         }
       },
       "10": {
-        "replace": false,
+        "replace": true,
         "enchantments": {
           "minecraft:channeling": 1,
           "minecraft:binding_curse": 1,
@@ -935,8 +1020,173 @@
       }
     }
   },
+"cooking": {
+    "replace": true,  
+    "id": 9,
+    "key": "cooking",
+    "maxlevel": 100,
+    "crafting": {
+      "1": [
+        "farmersdelight:fried_egg",
+        "farmersdelight:wheat_dough",
+        "farmersdelight:raw_pasta",
+        "farmersdelight:pumpkin_slice",
+        "farmersdelight:cabbage_leaf",
+        "farmersdelight:minced_beef",
+        "farmersdelight:beef_patty",
+        "farmersdelight:chicken_cuts",
+        "farmersdelight:cod_slice",
+        "farmersdelight:salmon_slice",
+        "farmersdelight:mutton_chops",
+        "farmersdelight:pie_crust",
+        "farmersdelight:cake_slice",
+        "farmersdelight:apple_pie_slice",
+        "farmersdelight:sweet_berry_cheesecake_slice",
+        "farmersdelight:chocolate_pie_slice",
+        "farmersdelight:sweet_berry_cookie",
+        "farmersdelight:honey_cookie",
+        "farmersdelight:melon_popsicle",
+        "natures_delight:shiitake_mushroom_colony",
+        "natures_delight:manakish_slice",
+        "rusticdelight:roasted_coffee_beans",
+        "rusticdelight:golden_coffee_beans",
+        "rusticdelight:calamari",
+        "rusticdelight:potato_slices",
+        "rusticdelight:batter",
+        "rusticdelight:cooking_oil",
+        "rusticdelight:syrup",
+        "rusticdelight:calamari_slice",
+        "rusticdelight:coffee",
+        "rusticdelight:milk_coffee",
+        "rusticdelight:dark_coffee",
+        "rusticdelight:coffee_cookie",
+        "rusticdelight:syrup_cookie",
+        "rusticdelight:cherry_blossom_cookie",
+        "rusticdelight:pancake",
+        "rusticdelight:honey_pancake",
+        "rusticdelight:chocolate_pancake",
+        "rusticdelight:cherry_blossom_pancake",
+        "rusticdelight:vegetable_pancake",
+        "rusticdelight:pumpkin_pancake"
+      ],
+      "3": [
+        "farmersdelight:cooked_chicken_cuts",
+        "farmersdelight:bacon",
+        "farmersdelight:cooked_bacon",
+        "farmersdelight:cooked_cod_slice",
+        "farmersdelight:cooked_salmon_slice",
+        "farmersdelight:cooked_mutton_chops",
+        "farmersdelight:ham",
+        "farmersdelight:smoked_ham",
+        "farmersdelight:apple_pie",
+        "farmersdelight:sweet_berry_cheesecake",
+        "farmersdelight:chocolate_pie",
+        "farmersdelight:fruit_salad",
+        "farmersdelight:mixed_salad",
+        "farmersdelight:nether_salad",
+        "farmersdelight:barbecue_stick",
+        "farmersdelight:egg_sandwich",
+        "farmersdelight:chicken_sandwich",
+        "farmersdelight:hamburger",
+        "farmersdelight:bacon_sandwich",
+        "farmersdelight:mutton_wrap",
+        "farmersdelight:dumplings",
+        "farmersdelight:stuffed_potato",
+        "farmersdelight:cabbage_rolls",
+        "farmersdelight:salmon_roll",
+        "farmersdelight:cod_roll",
+        "farmersdelight:kelp_roll",
+        "farmersdelight:kelp_roll_slice",
+        "farmersdelight:cooked_rice",
+        "farmersdelight:bone_broth",
+        "farmersdelight:beef_stew",
+        "farmersdelight:chicken_soup",
+        "farmersdelight:vegetable_soup",
+        "farmersdelight:fish_stew",
+        "farmersdelight:fried_rice",
+        "farmersdelight:pumpkin_soup",
+        "farmersdelight:baked_cod_stew",
+        "farmersdelight:noodle_soup",
+        "farmersdelight:bacon_and_eggs",
+        "farmersdelight:pasta_with_meatballs",
+        "farmersdelight:pasta_with_mutton_chop",
+        "farmersdelight:mushroom_rice",
+        "farmersdelight:roasted_mutton_chops",
+        "farmersdelight:vegetable_noodles",
+        "farmersdelight:steak_and_potatoes",
+        "farmersdelight:ratatouille",
+        "farmersdelight:squid_ink_pasta",
+        "farmersdelight:grilled_salmon",
+        "natures_delight:manakish",
+        "natures_delight:alfredo_pasta",
+        "natures_delight:turnip_tagine",
+        "natures_delight:coconut_sauce",
+        "natures_delight:sweet_and_savory_saute",
+        "natures_delight:fafaru",
+        "natures_delight:coconut_pancakes",
+        "natures_delight:coconut_bread",
+        "natures_delight:cocada",
+        "rusticdelight:cooked_calamari",
+        "rusticdelight:roasted_bell_pepper_green",
+        "rusticdelight:roasted_bell_pepper_yellow",
+        "rusticdelight:roasted_bell_pepper_red",
+        "rusticdelight:coffee_braised_beef",
+        "rusticdelight:rice_roll_royale",
+        "rusticdelight:stuffed_bell_pepper_yellow",
+        "rusticdelight:stuffed_bell_pepper_green",
+        "rusticdelight:stuffed_bell_pepper_red",
+        "rusticdelight:potato_salad",
+        "rusticdelight:sweet_salad",
+        "rusticdelight:fried_dough",
+        "rusticdelight:fried_dumplings",
+        "rusticdelight:spring_rolls",
+        "rusticdelight:bell_pepper_roll_green",
+        "rusticdelight:bell_pepper_roll_yellow",
+        "rusticdelight:bell_pepper_roll_red",
+        "rusticdelight:calamari_roll",
+        "rusticdelight:cherry_blossom_roll",
+        "rusticdelight:bell_pepper_soup",
+        "rusticdelight:bell_pepper_pasta",
+        "rusticdelight:fried_calamari",
+        "rusticdelight:fried_chicken",
+        "rusticdelight:fried_mushrooms",
+        "rusticdelight:honey_coffee",
+        "rusticdelight:chocolate_coffee",
+        "rusticdelight:syrup_coffee",
+        "rusticdelight:pancakes",
+        "rusticdelight:honey_pancakes",
+        "rusticdelight:chocolate_pancakes",
+        "rusticdelight:cherry_blossom_pancakes",
+        "rusticdelight:vegetable_pancakes",
+        "rusticdelight:pumpkin_pancakes",
+        "rusticdelight:fruit_beignet"
+      ],
+      "5": [
+        "farmersdelight:roast_chicken",
+        "farmersdelight:stuffed_pumpkin",
+        "farmersdelight:honey_glazed_ham",
+        "farmersdelight:shepherds_pie",
+        "farmersdelight:rice_roll_medley_block",
+        "farmersdelight:dog_food",
+        "farmersdelight:horse_feed",
+        "rusticdelight:baked_potato_slices",
+        "rusticdelight:cooked_calamari_slice",
+        "rusticdelight:syrup_cheesecake",
+        "rusticdelight:syrup_cheesecake_slice",
+        "rusticdelight:cherry_blossom_cheesecake",
+        "rusticdelight:cherry_blossom_cheesecake_slice",
+        "rusticdelight:syrup_sandwich"
+      ],
+      "7": [
+        "farmersdelight:roast_chicken_block",
+        "farmersdelight:stuffed_pumpkin_block",
+        "farmersdelight:honey_glazed_ham_block",
+        "farmersdelight:shepherds_pie_block"
+      ]
+    }
+  },
   "restriction": {
-    "replace": false,
+    "replace": true,
     "recipes": [
         "minecraft:wheat",
         "minecraft:hay_block",
@@ -993,7 +1243,25 @@
         "farmersdelight:tomato",
         "farmersdelight:onion",
         "farmersdelight:rice_panicle",
-        "farmersdelight:rice"
+        "farmersdelight:rice",
+        "rusticdelight:cotton_seeds_bag",
+        "rusticdelight:bell_pepper_seeds_bag",
+        "rusticdelight:coffee_beans_bag",
+        "rusticdelight:roasted_coffee_beans_bag",
+        "rusticdelight:cotton_boll_crate",
+        "rusticdelight:bell_pepper_green_crate",
+        "rusticdelight:bell_pepper_yellow_crate",
+        "rusticdelight:bell_pepper_red_crate",
+        "rusticdelight:wild_cotton",
+        "rusticdelight:wild_bell_peppers",
+        "rusticdelight:wild_coffee",
+        "rusticdelight:cotton_boll",
+        "rusticdelight:bell_pepper_green",
+        "rusticdelight:bell_pepper_yellow",
+        "rusticdelight:bell_pepper_red",
+        "rusticdelight:coffee_beans",
+        "rusticdelight:cotton_seeds",
+        "rusticdelight:bell_pepper_seeds"
     ]
   }
 }
