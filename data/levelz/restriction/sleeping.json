@@ -50,8 +50,7 @@
     "vanilla_beds": {
         "replace": false,
         "skills": {
-            "constitution": 12,
-            "magic": 2
+            "constitution": 8
         },
         "blocks": [
             "minecraft:red_bed",
