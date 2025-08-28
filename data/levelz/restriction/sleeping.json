@@ -2,7 +2,7 @@
     "comforts_sleeping_bags": {
         "replace": false,
         "skills": {
-            "constitution": 8
+            "constitution": 4
         },
         "blocks":[
             "comforts:sleeping_bag_white",
@@ -26,7 +26,7 @@
     "comforts_hammocks": {
         "replace": false,
         "skills": {
-            "constitution": 8
+            "constitution": 4
         },
         "blocks": [
             "comforts:hammock_white",
