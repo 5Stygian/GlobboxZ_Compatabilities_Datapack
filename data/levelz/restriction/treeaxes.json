@@ -1,0 +1,74 @@
+{
+    "wooden_treeaxe": {
+        "replace": false,
+        "skills": {
+            "farming": 2
+        },
+        "items": [
+            "treeaxe:wooden_treeaxe"
+        ]
+    },
+    "copper_treeaxe": {
+        "replace": false,
+        "skills": {
+            "farming": 4
+        },
+        "items": [
+            "treeaxe:copper_treeaxe"
+        ]
+    },
+    "gold_treeaxe": {
+        "replace": false,
+        "skills": {
+            "farming": 7
+        },
+        "items": [
+            "treeaxe:gold_treeaxe"
+        ]
+    },
+    "iron_treeaxe": {
+        "replace": false,
+        "skills": {
+            "farming": 8
+        },
+        "items": [
+            "treeaxe:iron_treeaxe"
+        ]
+    },
+    "emerald_treeaxe": {
+        "replace": false,
+        "skills": {
+            "farming": 12
+        },
+        "items": [
+            "treeaxe:emerald_treeaxe"
+        ]
+    },
+    "amythyet_treeaxe": {
+        "replace": false,
+        "skills": {
+            "farming": 14
+        },
+        "items": [
+            "treeaxe:amethyst_treeaxe"
+        ]
+    },
+    "diamond_treeaxe": {
+        "replace": false,
+        "skills": {
+            "farming": 16
+        },
+        "items": [
+            "treeaxe:diamond_treeaxe"
+        ]
+    },
+    "netherite_treeaxe": {
+        "replace": false,
+        "skills": {
+            "farming": 20
+        },
+        "items": [
+            "treeaxe:netherite_treeaxe"
+        ]
+    }
+}

@@ -4,7 +4,7 @@
         "skills": {
             "constitution": 4
         },
-        "blocks":[
+        "blocks": [
             "comforts:sleeping_bag_white",
             "comforts:sleeping_bag_orange",
             "comforts:sleeping_bag_magenta",
