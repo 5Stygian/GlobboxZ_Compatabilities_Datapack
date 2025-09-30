@@ -16,6 +16,7 @@ Working on adding JobsAddon support for many mods
 - "More Delight (Fabric)" by axperty
 - "My Nether's Delight Refabricated" by MerchantCalico
 - "Nature's Spirit" by Team_Hibiscus
+- "TreeAxes" by kwpugh
 - "Waystones" by BlayTheNinth
 
 ### JobsAddon
